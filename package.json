@@ -1,0 +1,23 @@
+{
+  "name": "website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "cd ./client && npm start",
+    "build": "cd ./client && npm build",
+    "test": "cd ./client && npm test",
+    "eject": "cd ./client && npm eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webuildpune/website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/webuildpune/website/issues"
+  },
+  "homepage": "https://github.com/webuildpune/website#readme"
+}
