@@ -16,18 +16,36 @@ function App() {
         Follow Us
       </p>
       <div className="flex-grow flex justify-evenly md:w-3/4 md:self-center md:mt-12">
-        <img
-          src="https://i.ibb.co/8sMWKPf/Untitled-design-30.png"
-          className="h-12 w-12 md:h-16 md:w-16 "
-        />
-        <img
-          src="https://i.ibb.co/YZNyQjM/Untitled-design-31.png"
-          className="h-12 w-12 md:h-16 md:w-16 "
-        />
-        <img
-          src="https://i.ibb.co/23sVP9t/Untitled-design-32.png"
-          className="h-12 w-12 md:h-16 md:w-16 "
-        />
+        <a
+          href="https://www.instagram.com/webuildpune/"
+          rel="noreferrer"
+          target="_blank"
+        >
+          <img
+            src="https://i.ibb.co/8sMWKPf/Untitled-design-30.png"
+            className="h-12 w-12 md:h-16 md:w-16 "
+          />
+        </a>
+        <a
+          href="https://twitter.com/webuildpune"
+          rel="noreferrer"
+          target="_blank"
+        >
+          <img
+            src="https://i.ibb.co/YZNyQjM/Untitled-design-31.png"
+            className="h-12 w-12 md:h-16 md:w-16 "
+          />
+        </a>
+        <a
+          href="https://www.linkedin.com/company/webuildpune/"
+          rel="noreferrer"
+          target="_blank"
+        >
+          <img
+            src="https://i.ibb.co/23sVP9t/Untitled-design-32.png"
+            className="h-12 w-12 md:h-16 md:w-16 "
+          />
+        </a>
       </div>
     </div>
   );
